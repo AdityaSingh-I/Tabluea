@@ -25,6 +25,6 @@ This project is an interactive **Tableau dashboard** that explores **car prices*
 🔹 **Data Storytelling & Business Insights**  
 
 ## 🔗 View the Live Dashboard  
-🚀 **[Explore the Interactive Tableau Dashboard]([https://public.tableau.com/app/profile/aditya.singh3178/viz/Book1_17393250711090/Dashboard1](https://adityasingh-i.github.io/Tabluea/))**  
+🚀 **[Explore the Interactive Tableau Dashboard]((https://adityasingh-i.github.io/Tabluea/))**  
 
 ## 📁 Repository Structure  
